@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Light Probe
+  - Closet
+  - Bathroom Sink
+  - Basket
+  - Carpet
+  - Blanket
+  - Bed Base
+  - Pillow
+  - Bed Lamp
+  - Fridge
+  - Towel
+  - Stove
+  - Toilet
+  - Oven Exhaust Fan
+  - Television
+  - Television Stand
+  - Sofa
+  - Cofee Table
+  - Dining Chair
+  - Dining Table
+  - Pantry
+  - FirePlace
+  - Bedside Table
+  - Drawer
+  - Building Base
+  - Standing Mirror
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - InteractRaycast
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FurnishedCabin/Scenes/ExploreVR.unity
+    guid: 0bce5907d797a4cd8b0660dc119867e8
+  m_configObjects:
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2e391d27ff5a16e44a6327d8caeaf199,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2687e97454ebf8a44b89efb49737cf13,
+      type: 2}
